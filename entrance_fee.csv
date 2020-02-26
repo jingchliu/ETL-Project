@@ -1,0 +1,294 @@
+Park Code,Cost,Description,Category
+ACAD,30.0,"Admits private, non-commercial vehicle (15 passenger capacity or less) and all occupants. Valid for 7 days. If a vehicle pass is purchased, no other pass is necessary.",Acadia Entrance Fee - Private Vehicle
+ACAD,25.0,"Admits one or two passengers on a private, non-commercial motorcycle. Valid for 7 days.",Acadia Entrance Fee - Motorcycle
+ACAD,15.0,"Admits one individual with no car (bicyclist, hiker, pedestrian). Youth 15 and under are admitted free of charge. Valid for 7 days.",Acadia Entrance Fee - Per Person
+ARCH,30.0,"Admits one private, non-commercial vehicle (15 passenger capacity or less) and all its occupants.",Private Vehicle Fee
+ARCH,25.0,"Admits a private, non-commercial motorcycle and its riders.",Motorcycle Fee
+ARCH,15.0,"Admits one individual with no car. Typically used for bicyclists, hikers, and pedestrians. Youth 15 and under are admitted free.",Per Person
+BADL,25.0,Fee covers the entry of a private vehicle and its occupants for 7 days,Private Vehicle
+BADL,12.0,"Fee covers the entry of an individual that is hiking, bicycling, etc... for 7 days","Individual (Hiking, Bicycling, etc...)"
+BADL,15.0,Fee covers the entry of a motorcycle and its occupants for 7 days,Motorcycle
+BADL,25.0,"Commercial sedan, 1 to 6 passenger capacity.   $25 plus $10 per person - 7 days for Original Manifest","Commercial Sedan, 1 to 6 passenger capacity"
+BADL,50.0,"Commercial van, 7 to 15 passenger capacity; $50 - 7 days for Original Manifest","Commercial Van, 7 to 15 passenger capacity"
+BADL,60.0,"Minibus, 16 to 25 passenger capacity; $60 - 7 days for Original Manifest","Commercial Minibus, 16 to 25 passenger capacity"
+BADL,150.0,"Motorcoach, 26 or more passenger capacity; $150 - 7 days for Original Manifest","Commercial Motorcoach, 26 or more passenger capacity"
+BIBE,30.0,"This fee includes all occupants of a private, non-commercial vehicle and is valid for 7 days.",Big Bend Entrance Fee--Per Vehicle
+BIBE,25.0,Fee applicable to one motorcycle; valid for 7 days.,Big Bend Entrance Fee--Motorcycle
+BIBE,12.0,Fee applicable to one individual walking in or bicycling in and is valid for 7 days.,Big Bend Entrance Fee--Individual
+BIBE,25.0,Non-commercial groups with a vehicle capacity of 15 or less pay a per vehicle fee.,Non-commercial groups with vehicle capacity 15 or less
+BIBE,12.0,Non-commercial groups with a vehicle capacity of 16 or more pay a $12.00 per person fee. Children 15 and younger are free. Annual and lifetime passes may be used.,Non-commercial groups with vehicle capacity of 16 or more
+BIBE,12.0,"$12 per client; passes may not be used. Business is required to obtain commercial use authorization. Bus tours, 25 person capacity or greater, $200 (commercial use authorization not required).",Commercial Group Fee
+BISC,0.0,The park has no entrance fees.,No entrance fees.
+BLCA,25.0,"Covers all persons in a single, private, noncommercial vehicle and is valid for seven calendar days.",Entrance Fee - per vehicle
+BLCA,15.0,Valid for seven calendar days.,Entrance Fee - per pedestrian or bicycle
+BLCA,100.0,Bus with 26 or more passenger seating capacity,Entrance Fee - commercial bus
+BLCA,40.0,Bus with 7-25 passenger seating capacity,Entrance Fee - commercial bus
+BLCA,25.0,Bus with 6 or less passenger seating capacity: $25 plus $7.00 per person,Entrance Fee - commercial bus
+BLCA,20.0,Covers up to two people on a single motorcycle and is valid for seven calendar days.,Entrance Fee - per motorcycle
+BRCA,35.0,"Admits private, non-commercial vehicle (15 passenger capacity or less) and all occupants to Bryce Canyon National Park. Includes unlimited use of the Shuttle during its operating season.",Private Vehicle - Valid for 7 days
+BRCA,20.0,"Admits one individual with no car to Bryce Canyon National Park. Typically used for bicyclists, hikers and pedestrians. Youth 15 and under are admitted free. Includes unlimited use of the Shuttle during its operating season.",Per Person - Valid for 7 days
+BRCA,30.0,Admits one non-commercial motorcycle to Bryce Canyon National Park. Includes unlimited use of the Shuttle during its operating season.,Motorcycle - Valid for 7 days
+BRCA,30.0,"Vehicle fee of $30 plus a per-person fee of $20 for those 16 years of age and older, not-to-exceed $50.",Road-based Commercial Tour (vehicle up to six seats)
+BRCA,50.0,Flat fee.,"Road-based Commercial Tour (vehicle 7-15 seats, regardless of occupancy)"
+BRCA,60.0,Flat fee.,"Road-based Commercial Tour (vehicle 16-25 seats, regardless of occupancy)"
+BRCA,150.0,Flat fee.,"Road-based Commercial Tour (vehicle 26 or more seats, regardless of occupancy)"
+CANY,30.0,"Admits one private, non-commercial vehicle 
+(15 passenger capacity or less) and all its occupants.",Private Vehicle
+CANY,25.0,"Admits a private, non-commercial motorcycle and its riders.",Motorcycle
+CANY,15.0,"Admits one individual with no car. Typically used for bicyclists, hikers, and pedestrians. Youth 15 and under are admitted free.",Per Person
+CARE,20.0,"The entrance fee for Capitol Reef National Park is paid into a self-serve tube at the beginning of the Scenic Drive, just past the campground. The cost includes all in a private vehicle.",Capitol Reef Entrance fee - Private Vehicle
+CARE,10.0,"The entrance fee for Capitol Reef National Park is paid into a self-serve tube at the beginning of the Scenic Drive, just past the campground.  America the Beautiful Interagency passes cover this entrance fee.",Capitol Reef Entrance Fee - Bicycle and Pedestrian
+CARE,100.0,"Buses and commercial vehicles are based on vehicle size/occupants, and is paid at the visitor center.",Capitol Reef Entrance Fee - Commercial vehicles with a seating capacity of 26 seats or greater
+CARE,40.0,"Buses and commercial vehicles are based on vehicle size/occupants, and is paid at the visitor center.",Capitol Reef Entrance Fee - Commercial vehicles with a seating capacity of 7-25 seats
+CARE,30.0,"Buses and commercial vehicles are based on vehicle size/occupants, and is paid at the visitor center.",Capitol Reef Entrance Fee - Commercial vehicles with a seating capacity of 1-6 seats
+CARE,15.0,"The entrance fee for Capitol Reef National Park is paid into a self-serve tube at the beginning of the Scenic Drive, just past the campground. The cost includes all in a private vehicle.",Capitol Reef Entrance fee - Motorcycle
+CHIS,0.0,There is no entrance fee to visit the Channel Islands National Park.,Entrance
+CONG,0.0,No Entrance Fee,No Entrance Fee
+CRLA,15.0,"Admits private, non-commercial vehicle (15 passenger capacity or less) and all occupants.",Car
+CRLA,10.0,"Admits one or two passengers on a private, non-commercial motorcycle.",Motorcycle
+CRLA,10.0,"Admits one individual with no car (bicyclist, hiker, pedestrian). Youth 15 and under are admitted free of charge.",Bicycle
+CRLA,25.0,"Commercial vehicles with a capacity of 1 to 6 passengers are required to pay a $25 entrance fee, plus a $5 passenger fee.
+
+The entrance fee structure for commercial vehicles visiting national parks is based on the capacity of the vehicle you arrive in, not the
+number of passengers.",Commercial Vehicles (Capacity of 1 to 6 passengers)
+CRLA,75.0,"The entrance fee structure for commercial vehicles visiting national parks is based on the capacity of the vehicle you arrive in, not the
+number of passengers.",Commercial Vehicles (Capacity of 7 to 15 passengers)
+CRLA,100.0,"The entrance fee structure for commercial vehicles visiting national parks is based on the capacity of the vehicle you arrive in, not the
+number of passengers.",Commerical Vehicles (Capacity of 16 to 25 passengers)
+CRLA,200.0,"The entrance fee structure for commercial vehicles visiting national parks is based on the capacity of the vehicle you arrive in, not the
+number of passengers.",Commercial Vehicles (Capacity of 26 or more passengers)
+CRLA,10.0,"Admits one individual with no car (bicyclist, hiker, pedestrian). Youth 15 and under are admitted free of charge.",Pedestrian
+CUVA,0.0,There is no entrance fee.,Entrance
+DENA,15.0,"Youth age 15 years or younger are free. 
+
+For people age 16 or older: This fee provides the visitor a 7-day entrance permit. It is charged year-round.",Denali Entrance Fee—Per Person
+DEVA,30.0,"This permit allows all persons traveling with the permit holder in one single private, non-commercial vehicle (car/truck/van) to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase.",Death Valley Entrance Fee - per vehicle
+DEVA,17.0,"This permit allows a single individual traveling on foot, motorcycle, or bicycle to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase. If the motorcycle or bicycle has more than one rider, each rider is charged the $10 fee.",Death Valley Entrance Fee - per individual
+DRTO,10.0,"This fee covers entrance to the park for 7 days. If you are arriving via seaplane or ferry the travel ticket includes entrance fee to Dry Tortugas National Park and Fort Jefferson. If you hold a National Parks Pass, show your pass at check-in and the entrance fee will be deducted from your transportation cost.
+
+If you are arriving via private boat or private seaplane fees are collected through a self-service fee area on the main dock at Garden Key. Cash or check only.",Dry Tortugas Entrance Fee
+EVER,25.0,The entrance fee to the Everglades National Park is good for 7 consecutive days starting from the day of purchase.,Everglades National Park Entrance Fee- Per vehicle
+EVER,8.0,"The Everglades National Park charges an entry fee per person when an individual enters the main entrance station through a bike or by walking. The entrance fee is good for 7 consecutive days starting from the day of purchase. Individuals 16 years old and younger, are admitted free of charge.",Everglades National Park Entrance Fee- Per Person/Cyclist
+EVER,20.0,The Everglades National Park entrance fee for motorcycles is good for 7 consecutive days starting from the day of purchase.,Everglades National Park Entrance Fee- Per Motorcycle
+EVER,200.0,"Entrance fees to the Everglades National Park are charged based on the seating capacity of the vehicle.
+
+Motorcoach (26 or more passengers)",Everglades National Park Entrance Fee-  Commercial Motorcoach
+EVER,100.0,"Entrance fees to the Everglades National Park are charged based on the seating capacity of the vehicle.
+
+Minibus (16-25 passengers)",Everglades National Park Entrance Fee- Commercial Minibus
+EVER,75.0,"Entrance fees to the Everglades National Park are charged based on the seating capacity of the vehicle.
+
+Van (7- 15 passengers)",Everglades National Park Entrance Fee- Commercial Van
+EVER,25.0,"Entrance fees to the Everglades National Park are charged based on the seating capacity of the vehicle.
+
+Sedan (1-6 passengers: $8 per person)",Everglades National Park Entrance Fee- Commercial Sedan
+GLAC,35.0,"This is a entrance fee for all persons traveling in a single, private, non-commercial vehicle (car/truck/van). The permit is non-transferable. Visitors can enter the park at any time, if the entrance station is not staffed, a self-registration area is available for purchasing a 7-day park permit.",Entrance Fee by car - 7 day permit
+GLAC,20.0,"This is a per person entrance fee for a visitor traveling on foot, bicycle, or for individuals traveling together in a vehicle as a non-commercial, organized group. The permit is non-transferable.",Entrance Fee by single entry
+GLAC,30.0,This is a per motorcycle entrance fee. The permit is non-transferable.,Entrance Fee by motorcycle
+GLBA,0.0,There is no entrance fee to enter Glacier Bay National Park and Preserve.,No Entrance Fee
+GRBA,0.0,Great Basin National Park has no entrance fees.,Entrance Fees
+GRCA,35.0,"Admits one single, private, non-commercial vehicle and all its passengers. Organized groups are not eligible for the vehicle permit.",Grand Canyon National Park Vehicle Permit
+GRCA,30.0,"Admits one single, private, non-commercial motorcycle and its passenger(s).",Grand Canyon National Park Motorcycle Permit
+GRCA,20.0,"Admits one individual when entering by foot, bicycle, park shuttle bus, Grand Canyon Railway and private rafting trip. Individuals 15 years old and younger are admitted free of charge.",Grand Canyon National Park Individual Permit
+GRSA,25.0,Passenger vehicle with all occupants; fee valid for 7 days.,Non-Commercial Vehicle and Occupants
+GRSA,15.0,"Per passenger, 16 years and older in oversized vehicle, including 15 passenger vans, small buses, etc. Valid for 7 days. Passengers under 16 are free.","Oversized Vehicle, 15+ passengers, age 16+"
+GRSA,20.0,One motorcycle and all its riders; valid for 7 days.,Motorcycle and Riders
+GRSM,0.0,Great Smoky Mountains National Park does not charge an entrance fee.,Entrance Fee
+GRTE,35.0,"Park entrance fee for 7 days for a private, non-commercial vehicle.",Grand Teton Entrance Fee - Private Vehicle
+GRTE,30.0,Park entrance for 7 days per private motorcycle.,Grand Teton Entrance Fee - Motorcycle
+GRTE,20.0,"Park entrance fee for 7 days for each visitor 16 years and older entering by foot, bicycle, ski, etc.",Grand Teton Entrance Fee - Hiker/Biker
+GUMO,10.0,"An entrance fee of $10 per person (16 years of age and older) is required; entrance fees/passes permit 1-7 consecutive days of use in this national park..
+
+Holders of the Annual, Senior, Military, 4th grade and Access Pass can bring in 3 adults free of charge under their pass. Any pass must be displayed in a vehicle while in the national park.",Entrance Fee
+HALE,30.0,Entry Fee is valid for 3 days starting from the day of purchase. Please use credit cards for payment of entry fees at the Summit and Kipahulu entrance stations. All park visitors are required to purchase a recreational use pass upon entering Haleakalā National Park. Passes are non-transferable.,Haleakalā National Park Private Vehicle (14 pax capacity or less) Entry Fee
+HALE,25.0,Entry Fee is valid for 3 days starting from the day of purchase. Please use credit cards for payment of entry fees at the Summit and Kipahulu entrance stations. All park visitors are required to purchase a recreational use pass upon entering Haleakalā National Park. Passes are non-transferable.,Haleakalā National Park Private Motorcycle Entry Fee
+HALE,30.0,Organized groups that do not qualify for Educational Fee Waivers are charged as follows: $25.00 Non-commercial vehicles with a vehicle capacity of 14 or less. $12.00 per person Non-commercial vehicles with a capacity of 15 or greater. Youth 15 and under are free. Individuals or families with any valid Annual or Lifetime pass may use their pass for entry at the per person rate. Pass and photo ID must be present upon entry.,"Haleakalā Natonal Park Non-Commercial Organized Groups Fee; Scouts, Rotary, Clubs, Youth Groups, Churches, Reunions"
+HALE,15.0,This fee is for visitors entering the park on a bicycle or on foot. Entry Fee is valid for 3 days starting from the day of purchase. Please use credit cards for payment of entry fees at the Summit and Kipahulu entrance stations. All park visitors are required to purchase a recreational use pass upon entering Haleakalā National Park. Passes are non-transferable.,"Haleakalā National Park Per Person Entry Fee; includes bicyclists, walk-ins, hikers"
+HAVO,30.0,"Admits one private non-commercial vehicle (capacity 15 or less) and all of its passengers. Valid for 7 days. Organized non-profit groups, (service organizations, scouts, church groups, college/school clubs) are not eligible.",Hawai‘i Volcanoes National Park - Private Vehicle
+HAVO,25.0,Per motorcycle - Valid for 7 days,Hawai‘i Volcanoes National Park - Motorcycle
+HAVO,15.0,Per walk-in pedestrian - valid for 7 days,Hawai‘i Volcanoes National Park - Individual
+HAVO,15.0,Per bicycle - Valid for 7 days,Hawai‘i Volcanoes National Park - Bicycle
+HAVO,15.0,Non-commercial groups entering the park in a bus or vehicle with a capacity of 16 persons or more will be charged $15.00 for each person on board. Exceptions: Anyone who is 15 or younger is exempt from paying an entrance fee. Passes may be used for entry as defined on the back of the pass. In many cases the driver will have been hired for transportation only and is exempt from paying the entrance fee. The total fee charged will not exceed the equivalent commercial fee for that type of vehicle.,Hawai‘i Volcanoes National Park - Groups
+HOSP,0.0,Entrance Fees,Entrance Fees
+HOSP,0.0,Fordyce Museum,Historic Museum
+HOSP,0.0,Guided Tours,Guided Tours
+ISRO,7.0,"The daily entrance fee is  $7 per person. It is charged to enter or remain within the park per calendar day (it includes the day you arrive and the day you depart the park). Pay this fee after your transportation reservations have been confirmed. 
+
+All Federal Recreation Passes (Annual, Senior, Access, Military) are honored. Entrance fees will be waived for the pass holder and up to 3 adults traveling with the pass holder.
+
+Children ages 15 and under are exempt from paying entrance fees.",Isle Royale Entrance Fee
+JOTR,30.0,"7-day vehicle permit, admitting the passengers of a single, non-commercial vehicle on the day of purchase and for the next six days.",Entrance Fee
+JOTR,25.0,"7-day entrance permit, per motorcycle.",Motorcycle Entrance Fee
+JOTR,15.0,"7-day entrance fee, per person on foot or bike.",Individual Entrance Fee
+JOTR,15.0,Per-person fee charged to non-commercial groups entering in a vehicle with a capacity of 16 passengers or more.,Non-commercial Groups - Per Person
+KATM,0.0,There is no entrance fee for Katmai.,Katmai National Park and Preserve
+KEFJ,0.0,No entrance fees are charged at Kenai Fjords National Park,No Entrance Fee
+KOVA,0.0,There is no entrance fee to visit Kobuk Valley National Park,Free Entrance
+LACL,0.0,"You do not need to pay fees, make reservations, or obtain permits from the National Park Service for any recreational activities in the park including backpacking, camping, river running, bear viewing, or visiting Dick Proenneke's cabin.
+
+Information regarding hunting and fishing license requirements, voluntary backcountry registration forms, and the permits commercial film crews or scientists conducting research and collecting items need to obtain are available on the Permits & Reservations page.",Lake Clark Entrance and User Fees
+LAVO,10.0,Valid for 1-7 days at Lassen Volcanic National Park between December 1 and April 15.,Winter Pass
+LAVO,30.0,Valid for 1-7 days at Lassen Volcanic National Park between April 16 and November 30,Vehicle Pass
+LAVO,25.0,Valid for one motorcycle regardless of the amount of passengers. Valid for 7 days at Lassen Volcanic National Park.,Motorcycle Pass
+LAVO,15.0,"Per person entrance fee for a visitor traveling on foot, bicycle, or for individuals traveling together in a vehicle as a non-commercial, organized group.Valid for 7 days at Lassen Volcanic National Park.",Individual Entrance Pass
+MACA,0.0,"Entry to Mammoth Cave National Park and its surface features is free of charge. There is, however, a charge to tour the cave. Cave tour prices vary.",Park Entrance Fee
+MACA,8.0,"Visit the Rotunda, one of the largest rooms in the cave and explore a vast canyon passageway. Learn about prehistoric Native American explorers, saltpeter mining operations, and basic cave geology. This is a short introductory tour to Mammoth Cave.",Mammoth Passage Tour - Adult Ticket
+MACA,6.0,"Visit the Rotunda, one of the largest rooms in the cave and explore a vast canyon passageway. Learn about prehistoric Native American explorers, saltpeter mining operations, and basic cave geology. This is a short introductory tour to Mammoth Cave.",Mammoth Passage Tour - Youth Ticket
+MACA,4.0,"Visit the Rotunda, one of the largest rooms in the cave and explore a vast canyon passageway. Learn about prehistoric Native American explorers, saltpeter mining operations, and basic cave geology. This is a short introductory tour to Mammoth Cave.",Mammoth Passage Tour - Senior Pass or Access Pass holder
+MACA,14.0,The Frozen Niagara Entrance provides easy access to this decorative area of the cave. Walk through a fairyland of formations to learn how dripstone is formed. An optional 49 step staircase takes visitors under the Frozen Niagara formation to the Drapery Room. This easy trip is ideal for people who want a short introduction to Mammoth Cave. A ten-minute bus ride to and from the entrance is included.,Frozen Niagara Tour - Adult Ticket
+MACA,10.0,The Frozen Niagara Entrance provides easy access to this decorative area of the cave. Walk through a fairyland of formations to learn how dripstone is formed. An optional 49 step staircase takes visitors under the Frozen Niagara formation to the Drapery Room. This easy trip is ideal for people who want a short introduction to Mammoth Cave. A ten minute bus ride to and from the entrance is included.,Frozen Niagara Tour - Youth Ticket
+MACA,7.0,The Frozen Niagara Entrance provides easy access to this decorative area of the cave. Walk through a fairyland of formations to learn how dripstone is formed. An optional 49 step staircase takes visitors under the Frozen Niagara formation to the Drapery Room. This easy trip is ideal for people who want a short introduction to Mammoth Cave. A ten minute bus ride to and from the entrance is included.,Frozen Niagara Tour - Senior Pass or Access Pass holder
+MACA,6.0,"Visit one of the largest rooms in the cave and explore a vast canyon passageway. Learn about prehistoric explorers, saltpeter mining, early owners and basic cave geology on this self-guiding tour. Rangers are on hand along this short introductory tour.",Mammoth Cave Discovery Tour - Adult Ticket
+MACA,4.0,"Visit one of the largest rooms in the cave and explore a vast canyon passageway. Learn about prehistoric explorers, saltpeter mining, early owners and basic cave geology on this self-guiding tour. Rangers are on hand along this short introductory tour.",Mammoth Cave Discovery Tour - Youth Ticket
+MACA,3.0,"Visit one of the largest rooms in the cave and explore a vast canyon passageway. Learn about prehistoric explorers, saltpeter mining, early owners and basic cave geology on this self-guiding tour. Rangers are on hand along this short introductory tour.",Mammoth Cave Discovery Tour - Senior Pass or Access Pass holder
+MACA,17.0,"Feel the same excitement that intrigued our earliest explorers and visitors. Leave initial large passages behind to descend into deeper levels. Cross over Bottomless Pit, squeeze through Fat Man's Misery, clamber up Mammoth Dome tower to return to the Historic Entrance.",Historic Tour - Adult Ticket
+MACA,12.0,"Feel the same excitement that intrigued our earliest explorers and visitors. Leave initial large passages behind to descend into deeper levels. Cross over Bottomless Pit, squeeze through Fat Man's Misery, clamber up Mammoth Dome tower to return to the Historic Entrance.",Historic Tour - Youth Ticket
+MACA,8.5,"Feel the same excitement that intrigued our earliest explorers and visitors. Leave initial large passages behind to descend into deeper levels. Cross over Bottomless Pit, squeeze through Fat Man's Misery, clamber up Mammoth Dome tower to return to the Historic Entrance.",Historic Tour - Senior Pass or Access Pass holder
+MACA,17.0,"Wind down through deep pits and high domes via a 280 step staircase. Vertical cave gives way to large canyons and underground hill climbs.  Visit the Frozen Niagara formation, then pass through one of the caves most decorative dripstone areas. A ten-minute bus ride to and from the entrances is included.",Domes and Dripstones Tour - Adult Ticket
+MACA,12.0,"Wind down through deep pits and high domes via a 280 step staircase. Vertical cave gives way to large canyons and underground hill climbs.  Visit the Frozen Niagara formation, then pass through one of the caves most decorative dripstone areas. A ten-minute bus ride to and from the entrances is included.",Domes and Dripstones Tour - Youth Ticket
+MACA,8.5,"Wind down through deep pits and high domes via a 280 step staircase. Vertical cave gives way to large canyons and underground hill climbs.  Visit the Frozen Niagara formation, then pass through one of the caves most decorative dripstone areas. A ten-minute bus ride to and from the entrances is included.",Domes and Dripstones Tour - Senior Pass or Access Pass holder
+MACA,30.0,This physically demanding trip gives you an excellent perspective of the size and complexity of the Mammoth Cave system. Learn of the interwoven natural and cultural history of the cave as you journey  through some of the cave’s most dramatic passages.,Grand Avenue Tour - Adult Ticket
+MACA,23.0,This physically demanding trip gives you an excellent perspective of the size and complexity of the Mammoth Cave system. Learn of the interwoven natural and cultural history of the cave as you journey  through some of the cave’s most dramatic passages.,Grand Avenue Tour - Youth Ticket
+MACA,15.0,This physically demanding trip gives you an excellent perspective of the size and complexity of the Mammoth Cave system. Learn of the interwoven natural and cultural history of the cave as you journey  through some of the cave’s most dramatic passages.,Grand Avenue Tour - Senior Pass or Access Pass holder
+MACA,20.0,Take a one mile stroll through the beautifully elliptical Cleaveland Avenue encrusted with gypsum formations in various crystalline shapes and sizes. Arrive one mile later in the Snowball Room before back tracking to the Carmichael entrance.,Cleaveland Avenue Tour - Adult Ticket
+MACA,14.0,Take a one-mile stroll through the beautifully elliptical Cleaveland Avenue encrusted with gypsum formations in various crystalline shapes and sizes. Arrive one mile later in the Snowball Room before back tracking to the Carmichael entrance.,Cleaveland Avenue Tour - Youth Ticket
+MACA,10.0,Take a one-mile stroll through the beautifully elliptical Cleaveland Avenue encrusted with gypsum formations in various crystalline shapes and sizes. Arrive one mile later in the Snowball Room before back tracking to the Carmichael entrance.,Cleaveland Avenue Tour - Senior Pass or Access Pass holder
+MACA,20.0,Walk through miles of large passages by lantern light. Relive the stories and illusions of almost 200 years of tourism as the guides recreate the rugged nature of early tours. The flickering flame and rustic trails in this area make it seem as if time stands still in the cave.,Violet City Lantern Tour - Adult Ticket
+MACA,15.0,Walk through miles of large passages by lantern light. Relive the stories and illusions of almost 200 years of tourism as the guides recreate the rugged nature of early tours. The flickering flame and rustic trails in this area make it seem as if time stands still in the cave.,Violet City Lantern Tour - Youth Ticket
+MACA,10.0,Walk through miles of large passages by lantern light. Relive the stories and illusions of almost 200 years of tourism as the guides recreate the rugged nature of early tours. The flickering flame and rustic trails in this area make it seem as if time stands still in the cave.,Violet City Lantern Tour - Senior Pass or Access Pass holder
+MACA,20.0,"A great cave activity for returning visitors, this trip includes a bus ride through a forested valley to another historically toured cave within the national park. Coleman lanterns illuminate a series of beautifully sculpted decorative rooms and passageways.",Great Onyx Tour - Adult Ticket
+MACA,15.0,"A great cave activity for returning visitors, this trip includes a bus ride through a forested valley to another historically toured cave within the national park. Coleman lanterns illuminate a series of beautifully sculpted decorative rooms and passageways.",Great Onyx Tour - Youth Ticket
+MACA,10.0,"A great cave activity for returning visitors, this trip includes a bus ride through a forested valley to another historically toured cave within the national park. Coleman lanterns illuminate a series of beautifully sculpted decorative rooms and passageways.",Great Onyx Tour - Senior Pass or Access Pass holder
+MACA,18.0,"Want a glimpse of the underground rivers at the cave’s deepest levels? This geologic journey includes the complete Historic Tour route, plus a short visit down to the Dead Sea, the banks of River Styx and a quick view of Lake Lethe.",River Styx Cave Tour - Adult Ticket
+MACA,13.0,"Want a glimpse of the underground rivers at the cave’s deepest levels? This geologic journey includes the complete Historic Tour route, plus a short visit down to the Dead Sea, the banks of River Styx and a quick view of Lake Lethe.",River Styx Cave Tour - Youth Ticket
+MACA,9.0,"Want a glimpse of the underground rivers at the cave’s deepest levels? This geologic journey includes the complete Historic Tour route, plus a short visit down to the Dead Sea, the banks of River Styx and a quick view of Lake Lethe.",River Styx Cave Tour - Senior Pass or Access Pass holder
+MACA,16.0,"Limestone walls swathed in dripstone curtains of orange and tan, beg for your lens on this short stroll underground.  Learn of early photography and challenges with cave lighting. Still or video cameras may be used, with flash. Pass through Thanksgiving Hall, Shower Bath Springs, Drapery Room, Onyx Colonnade, and Rainbow Dome.",Focus on Frozen Niagara Photo Tour - Adult Ticket
+MACA,12.0,"Limestone walls swathed in dripstone curtains of orange and tan, beg for your lens on this short stroll underground.  Learn of early photography and challenges with cave lighting. Still or video cameras may be used, with flash. Pass through Thanksgiving Hall, Shower Bath Springs, Drapery Room, Onyx Colonnade, and Rainbow Dome.",Focus on Frozen Niagara Photo Tour - Youth Ticket
+MACA,8.0,"Limestone walls swathed in dripstone curtains of orange and tan, beg for your lens on this short stroll underground.  Learn of early photography and challenges with cave lighting. Still or video cameras may be used, with flash. Pass through Thanksgiving Hall, Shower Bath Springs, Drapery Room, Onyx Colonnade, and Rainbow Dome.",Focus on Frozen Niagara Photo Tour - Senior Pass or Access Pass holder
+MACA,15.0,Gothic Avenue features hundreds of candle-smoked signatures and monuments of stacked limestone dating back through the cave’s early years of tourism.,Gothic Avenue Tour - Adult Ticket
+MACA,10.0,Gothic Avenue features hundreds of candle-smoked signatures and monuments of stacked limestone dating back through the cave’s early years of tourism.,Gothic Avenue Tour - Youth Ticket
+MACA,7.5,Gothic Avenue features hundreds of candle-smoked signatures and monuments of stacked limestone dating back through the cave’s early years of tourism.,Gothic Avenue Tour - Senior Pass or Access Pass holder
+MACA,20.0,Leave waning daylight behind as you enter the Historic Entrance by lantern light. See the cave as it was seen by early tourists. Gaze upward in the Star Chamber as a traditional illusion is recreated. Follow your guide into mystical Gothic Avenue. Retrace your steps and exit the cave to Kentucky’s nocturnal landscape.,Star Chamber Tour - Adult Ticket
+MACA,15.0,Leave waning daylight behind as you enter the Historic Entrance by lantern light. See the cave as it was seen by early tourists. Gaze upward in the Star Chamber as a traditional illusion is recreated. Follow your guide into mystical Gothic Avenue. Retrace your steps and exit the cave to Kentucky’s nocturnal landscape.,Star Chamber Tour - Youth Ticket
+MACA,10.0,Leave waning daylight behind as you enter the Historic Entrance by lantern light. See the cave as it was seen by early tourists. Gaze upward in the Star Chamber as a traditional illusion is recreated. Follow your guide into mystical Gothic Avenue. Retrace your steps and exit the cave to Kentucky’s nocturnal landscape.,Star Chamber Tour - Senior Pass or Access Pass holder
+MACA,20.0,"A kids-only off-trail adventure! Hike through the forest and find out how the surface and subsurface are connected.  Learn how cavers safely explore today. Unlock the secrets of how cave life survives. Discover a new world as you hike, crawl and belly-slide through the cave. (Children 8-12 years only)",Trog - Youth Ticket
+MACA,10.0,"A kids-only off-trail adventure! Hike through the forest and find out how the surface and subsurface are connected.  Learn how cavers safely explore today. Unlock the secrets of how cave life survives. Discover a new world as you hike, crawl and belly-slide through the cave. (Children 8-12 years only)",Trog - Access Pass holder
+MACA,30.0,"A wild caving challenge for new cavers or families! Designed for both adults and kids 10 years and up. Learn the rules and techniques of safe caving, and an appreciation of this special environment. Similar to Wild Cave Tour, but shorter and less difficult.",Introduction to Caving - Adult Ticket
+MACA,24.0,"A wild caving challenge for new cavers or families! Designed for both adults and kids 10 years and up. Learn the rules and techniques of safe caving, and an appreciation of this special environment. Similar to Wild Cave Tour, but shorter and less difficult.",Introduction to Caving - Youth Ticket (ages 10+)
+MACA,15.0,"A wild caving challenge for new cavers or families! Designed for both adults and kids 10 years and up. Learn the rules and techniques of safe caving, and an appreciation of this special environment. Similar to Wild Cave Tour, but shorter and less difficult.",Introduction to Caving - Senior Pass or Access Pass holder
+MACA,60.0,"A wild caving challenge for adults only. Venture into miles of undeveloped passageways no other tour sees. Be prepared for free-climbing, lengthy crawls, wet areas, and tight openings. Good physical condition is essential.  Participants must be 16 years of age.  Any youth ages 16 - 17 must be accompanied by an adult 18 or over.",Wild Cave Tour - Adult Ticket
+MACA,30.0,"A wild caving challenge for adults only. Venture into miles of undeveloped passageways no other tour sees. Be prepared for free-climbing, lengthy crawls, wet areas, and tight openings. Good physical condition is essential.",Wild Cave Tour - Senior Pass or Access Pass holder
+MACA,20.0,"Located ¼ mile from the park Visitor Center, this campground includes 105 sites. Each site features paved parking, a picnic table, and a fire ring. The campground has restrooms, fresh water, a dump station, garbage dumpsters, and a recycling station.  There are no hookups for electricity or water. No Refunds. Reservations are recommended. Check-in time is 12 noon, and check-out time is 11am. A maximum of 8 persons is permitted at each  site, and campers may stay a maximum of 14 days in a calendar year.",Mammoth Cave Campground - Regular Site
+MACA,10.0,"Located ¼ mile from the park Visitor Center, this campground includes 105 sites. Each site features paved parking, a picnic table, and a fire ring. The campground has restrooms, fresh water, a dump station, garbage dumpsters, and a recycling station.  There are no hookups for electricity or water. No Refunds. Reservations are recommended. Check-in time is 12 noon, and check-out time is 11am. A maximum of 8 persons is permitted at each  site, and campers may stay a maximum of 14 days in a calendar year.",Mammoth Cave Campground - Regular Site - Senior/Access Pass
+MACA,25.0,"Mammoth Cave Campground offers 4 sites to accommodate groups, with a limit of 16 campers per site.  Each site has paved parking, picnic tables, and a fire ring. No discount is offered on group camping.  Check-in time is 12 noon, and check-out time is 11am. No refunds. Reservations are recommended.",Mammoth Cave Campground - Group Site
+MACA,25.0,"Located 6 miles from the Visitor Center and 3 miles north of the Green River Ferry, this campground has 7 sites; 3 of these are primitive group sites with a limit of 24 persons/site.  All Maple Springs campsites have multiple picnic tables and fire rings. Chemical toilets, garbage dumpsters, and fresh water are available. No discounts for group camping. No refunds. Reservations are required. Maple Springs Campground check-in time is 12 noon and check-out time is 11am.",Maple Springs Group Campground - Group Site
+MACA,35.0,"Located 6 miles from the Visitor Center and 3 miles north of the Green River Ferry, this campground has 7 sites; 4 of these are designated horse camp sites with hitching posts and trailer parking, limited to 8 horses/site. Sites #1 and #2 have water and electric hookups. All Maple Springs sites have picnic tables and fire rings. Chemical toilets, garbage dumpsters, and fresh water available. No discounts for group camping. No refunds. Reservations required. Campground check-in is noon and check-out is 11am.",Maple Springs Group Campground - Horseback Site - Hookups
+MACA,25.0,"Located 6 miles from the Visitor Center and 3 miles north of the Green River Ferry, this campground has 7 sites; 4 of these are designated horse camp sites with hitching posts and trailer parking, limited to 8 horses/site. Sites #3 and #4 are primitive (no hookups). All Maple Springs sites have picnic tables and fire rings. Chemical toilets, garbage dumpsters, and fresh water available. No discounts for group camping. No refunds. Reservations required. Campground check-in is noon and check-out is 11am.",Maple Springs Group Campground - Horseback Site - Primitive
+MACA,15.0,"Located 15 miles from the park Visitor Center on the south bank of the Green River, this campground includes 12 sites. Each site has a picnic table and a fire ring. The campground has two chemical toilets, fresh water, and an adjacent picnic shelter. This campground is not suitable for large trailers or RVs. No refunds. Campsites are available on a first-come, first-served basis.",Houchin Ferry Campground - Regular Site
+MACA,7.5,"Located 15 miles from the park Visitor Center on the south bank of the Green River, this campground includes 12 sites. Each site has a picnic table and a fire ring. The campground has two chemical toilets, fresh water, and an adjacent picnic shelter. This campground is not suitable for large trailers or RVs. No refunds. Campsites are available on a first-come, first-served basis. Fee is per night/per site.",Houchin Ferry Campground - Regular Site - Senior/Access Pass
+MACA,50.0,"Located near the park Visitor Center, the picnic area has an open picnic shelter available by reservation. The picnic area also has fire grates, restrooms, fresh water, and a garbage dumpster. The picnic shelter features ten picnic tables, and a working fireplace. Availability is limited; call for information. No Refunds. Cost is per day.",Open Picnic Shelter - Reservation
+MACA,75.0,"Located near the park Visitor Center, the picnic area has an enclosed picnic shelter available by reservation. The picnic area also has fire grates, restrooms, fresh water, and a garbage dumpster. The picnic shelter features ten picnic tables. Availability is limited; call for information. No Refunds. Cost is per day.",Enclosed Picnic Shelter - Reservation
+MACA,20.0,"Utilizing the Elevator Entrance, this tour emerges near the historic underground cafeteria known as Snowball Room. Continuing through historic Cleaveland Avenue, this tour passes through areas of the cave highly decorated with historic signatures and sparkling geological formations. This tour is ideal for people who wish to see the cave and are looking for a tour with no stairs.",Mammoth Cave Accessible Tour - Adult Ticket
+MACA,14.0,"Utilizing the Elevator Entrance, this tour emerges near the historic underground cafeteria known as Snowball Room. Continuing through historic Cleaveland Avenue, this tour passes through areas of the cave highly decorated with historic signatures and sparkling geological formations. This tour is ideal for people who wish to see the cave and are looking for a tour with no stairs.",Mammoth Cave Accessible Tour - Youth Ticket
+MACA,10.0,"Utilizing the Elevator Entrance, this tour emerges near the historic underground cafeteria known as Snowball Room. Continuing through historic Cleaveland Avenue, this tour passes through areas of the cave highly decorated with historic signatures and sparkling geological formations. This tour is ideal for people who wish to see the cave and are looking for a tour with no stairs.",Mammoth Cave Accessible Tour - Special Access Ticket
+MEVE,30.0,"This is a per-vehicle entrance fee for the summer season (May 1 to October 31, 2020). It is valid for seven days from the day of purchase.
+
+Please note that we offer fee waivers for qualified education groups. Visit http://www.nps.gov/meve/learn/education/feewaiver_info.htm to learn more.",Mesa Verde Entrance Fee - Per Vehicle - Summer Season
+MEVE,15.0,"This is a per-person (bicyclist and individual) entrance fee for the summer season (May 1 to October 31, 2020). It is valid for seven days from the day of purchase.
+
+Please note that we offer fee waivers for qualified education groups. Visit http://www.nps.gov/meve/learn/education/feewaiver_info.htm to learn more.",Mesa Verde Entrance Fee - Per Person - Summer Season
+MEVE,10.0,"This is a per-person (bicyclist and individual) entrance fee for fall/winter/spring (January 2 to April 30, 2020 and November 1 to December 31, 2020). It is valid for seven days from the day of purchase.
+
+Please note that we offer fee waivers for qualified education groups. Visit http://www.nps.gov/meve/learn/education/feewaiver_info.htm to learn more.",Mesa Verde Entrance Fee - Per Person - Fall/Winter/Spring
+MEVE,20.0,"This is a per-vehicle entrance fee for fall/winter/spring (January 2 to April 30, 2020 and November 1 to December 31, 2020). It is valid for seven days from the day of purchase.
+
+Please note that we offer fee waivers for qualified education groups. Visit http://www.nps.gov/meve/learn/education/feewaiver_info.htm to learn more.",Mesa Verde Entrance Fee - Per Vehicle - Fall/Winter/Spring
+MEVE,25.0,"This is a per-motorcycle entrance fee for the summer season (May 1, 2019 to October 31, 2020. It is valid for seven days from the day of purchase.",Mesa Verde Entrance Fee - Per Motorcycle - Summer Season
+MEVE,15.0,"This is a per-vehicle entrance fee for fall/winter/spring (January 2 to April 30, 2020 and November 1 to December 31, 2020). It is valid for seven days from the day of purchase.",Mesa Verde Entrance Fee - Per Motorcycle - Fall/Winter/Spring
+MORA,30.0,"Grants unlimited entry for one vehicle and passengers for seven consecutive days. Vehicle must be private, noncommercial, and with a seating capacity of 15 or less.",Mount Rainier Single Vehicle Fee
+MORA,15.0,Walk-up or single bicycle fee. Grants unlimited entry for seven consecutive days.,"Mount Rainier ""Per Person"" Fee"
+MORA,25.0,Grants unlimited entry for one motorcycle and passenger for seven consecutive days.,Mount Rainier Motorcycle Fee
+MORA,20.0,"Fee per site, nightly, for camping in Cougar Rock, Ohanapecosh, and White River campgrounds. Learn more about camping at Mount Rainier at https://www.nps.gov/mora/planyourvisit/campgrounds.htm",Mount Rainier Campground Fee
+MORA,60.0,"Fee for group sites, nightly, in Cougar Rock and Ohanapecosh campgrounds. Group sites accommodate 25 to 40 people depending on site. There are no group sites in White River Campground. For more information about camping at Mount Rainier: https://www.nps.gov/mora/planyourvisit/campgrounds.htm",Mount Rainier Campground Fee - Groups
+NOCA,0.0,North Cascades National Park Complex does not charge entrance fees.,North Cascades National Park Entrance Fees
+OLYM,30.0,"Valid for seven consecutive days. Applies to private, non-commercial vehicles (15 passenger capacity or less). The pass covers all vehicle occupants.",Olympic Entrance Fee - Vehicle (Non-Commercial)
+OLYM,25.0,"Valid for seven consecutive days. Fee admits one individual on a private, non-commercial motorcycle.",Olympic Entrance Fee - Motorcycle
+OLYM,15.0,"Valid for seven consecutive days. This fee admits one person without a vehicle, including hikers, bicyclists, and pedestrians. Individuals fifteen years or younger are admitted free of charge.",Olympic Entrance Fee - Per Person and Bicyclists
+OLYM,75.0,"A commercial tour is defined as persons traveling on an itinerary that has been packaged, priced or sold for leisure recreational purposes by an organization that realizes financial gain through the provisions of the service.",Olympic Entrance Fee - Commercial Van (7-15 seats)
+OLYM,100.0,"A commercial tour is defined as persons traveling on an itinerary that has been packaged, priced or sold for leisure recreational purposes by an organization that realizes financial gain through the provisions of the service.",Olympic Entrance Fee - Commercial Minibus (16-25 seats)
+OLYM,200.0,"A commercial tour is defined as persons traveling on an itinerary that has been packaged, priced or sold for leisure recreational purposes by an organization that realizes financial gain through the provisions of the service.",Olympic Entrance Fee - Commercial Motor-coach (26 seats or more)
+OLYM,30.0,"Applies to organized groups such as Scouts, Rotary, Youth Groups, Churches, Clubs and Reunions etc. Youth 15 and under are admitted free of charge.",Olympic Entrance Fee - Non-Commercial Organized Group Vehicles 15 seats or less
+PEFO,25.0,Fee is for one private vehicle and the people within for 7 days.,Auto/7-day pass to Petrified Forest National Park
+PEFO,15.0,The fee allows for one person walking or one person on a bicycle into the park for 7 days.,Bicycle and walkers/per person
+PEFO,20.0,Allows a motorcycle and riders in for 7 days.,Motorcycle (flat fee)
+PINN,30.0,Valid for 7 days,"Private, Non-Commercial Vehicles"
+PINN,15.0,Valid for 7 days,"Individual, Hike / Bicycle"
+PINN,15.0,"Visitors 16 years and older (i.e. service organizations, scouts, church groups, and college/school clubs) in buses and vehicles with 16 passenger capacity or more.
+Valid for 7 days","Organized, Non-Commercial Groups"
+PINN,25.0,7 days for original manifest,"Commercial Vehicle, 1 to 6 passenger capacity"
+PINN,40.0,7 days for original manifest,"Commercial Vehicle, 7 to 25 passenger capacity"
+PINN,100.0,7 days for original manifest,"Commercial Tour Bus or Motorcoach, 26 or more passenger capacity"
+PINN,25.0,Valid for seven days,Motorcycle
+REDW,0.0,There are no entrance fees to drive the scenic roads or highways in our three state parks and national park.,Redwood National Park and State Parks Entrance Fee
+REDW,8.0,Day use fee. To be paid at the California State Park entrance kiosk at the southern end of Gold Bluffs Beach. State and federal passes will be honored.,Gold Bluffs Beach / Fern Canyon - Day Use & Vehicle Fees
+REDW,8.0,Day use fee for vehicles parked next to the Smith River. State and federal passes will be honored.,Jedediah Smith Campground - Day Use & Vehicle Fees
+ROMO,25.0,"Valid for date of purchase. Covers single, non-commercial vehicle with capacity of less than 16 passengers. <a href=""https://www.pay.gov/public/form/start/76969868"">Purchase online</a>.",1-Day Pass - Automobile
+ROMO,35.0,"Valid for seven consecutive days (including date of purchase). Covers single, non-commercial vehicle with capacity of less than 16 passengers. <a href=""https://www.pay.gov/public/form/start/76969868"">Purchase online</a>.",7-Day Pass - Automobile
+ROMO,20.0,"Valid for seven consecutive days (including date of purchase). Applies to walk-ins, bicycles, and non-commercial groups.",7-Day Pass - Per Person
+ROMO,30.0,Valid for seven consecutive days (including date of purchase). Covers one motorcycle.,7-Day Pass - Motorcycle
+ROMO,25.0,Valid for date of purchase. Covers one motorcycle.,1-Day Pass - Motorcycle
+ROMO,15.0,"Valid for date of purchase. Applies to walk-ins, bicycles, and non-commercial groups.",1-Day Pass - Per Person
+SAGU,20.0,"Admits one single, private, non-commercial vehicle or RV and all its passengers. Organized groups are not eligible for the vehicle permit.",Saguaro National Park Vehicle Weekly Pass
+SAGU,10.0,Admits one individual when entering by foot or bicycle. Individuals 15 years or younger are admitted free of charge.,Saguaro National Park Individual Weekly Pass
+SAGU,15.0,Admits one motorcycle and its riders.,Saguaro National Park Motorcycle Weekly Pass
+SEKI,35.0,This pass is valid for 1-7 days and includes everyone traveling in a single vehicle for Sequoia & Kings Canyon National Parks and Hume Lake District of Sequoia National Forest/Giant Sequoia National Monument. You can purchase this pass in advance at www.yourpassnow.com.,Vehicle Pass
+SEKI,20.0,This entry fee is for a single person traveling on foot or by bicycle. It is valid for 1-7 days in Sequoia & Kings Canyon National Parks and Hume Lake District of Sequoia National Forest/Giant Sequoia National Monument.,Individual Entry Pass
+SEKI,15.0,"Groups traveling in a bus or vehicle with a capacity of 16 persons or more are charged per person. People 15 years old or younger, drivers hired for transportation only, or anyone with a pass that may be used for park entry is exempt from paying the entrance fee.",Non-Commercial Group
+SEKI,25.0,"This entrance fee is for commercial tours of one or more people traveling on an itinerary that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. This fee is based on the seating capacity of the vehicle and not the actual number of passengers. Passenger ages or entrance passes do not affect the price. The charge for vehicles with a seating capacity of 1-6 passengers is $25 plus $10 per person.","Commercial Group, 1-6 Passenger Capacity"
+SEKI,75.0,This entrance fee is for commercial tours of vehicles with a seating capacity of 7-15 people.,"Commercial Group, 7-15 Passenger Capacity"
+SEKI,100.0,This entrance fee is for commercial tours of vehicles with a seating capacity of 16-25 people.,"Commercial Group, 16-25 Passenger Capacity"
+SEKI,200.0,This entrance fee is for commercial tours of vehicles with a seating capacity of 26 or more people.,"Commercial group, 26+ Passenger Capacity"
+SEKI,30.0,"This pass is valid for 1-7 days and includes everyone traveling on a motorcycle, scooter, or similar motorized vehicle for Sequoia & Kings Canyon National Parks and Hume Lake District of Sequoia National Forest/Giant Sequoia National Monument. You can purchase this pass in advance at www.yourpassnow.com.",Motorcycle Pass
+SHEN,30.0,"This fee covers unlimited entry for one vehicle and passengers for seven consecutive days, beginning on the day of purchase.
+
+Vehicles must be private, noncommercial, and with a seating capacity of 15 or less.",Shenandoah Entrance Fee - Single Vehicle
+SHEN,15.0,"The fee for walk-up or bicycling visitors, when 16 years of age or older (children under 16 are admitted for free). Includes entering the Park by all means other than a private, non-commercial vehicle. A family traveling together shall pay no more than the vehicle fee.",Shenandoah Entrance Fee - Individual Person
+SHEN,25.0,"Covers entry for one motorcycle and one passenger for seven consecutive days, beginning on the day of purchase.",Shenandoah Entrance Fee - Single Motorcycle
+SHEN,25.0,$25 + $10 per passenger,Shenandoah Entrance Fee - Commercial Tour (1-6 Passengers)
+SHEN,75.0,"The entry fees are based upon the total capacity of vehicles that can carry 7 or more passengers, regardless of the actual number of passengers.",Shenandoah Entrance Fee - Commercial Tour (7-15 Passengers)
+SHEN,100.0,"The entry fees are based upon the total capacity of vehicles that can carry 7 or more passengers, regardless of the actual number of passengers.",Shenandoah Entrance Fee - Commercial Tour (16-25 Passengers)
+SHEN,200.0,"The entry fees are based upon the total capacity of vehicles that can carry 7 or more passengers, regardless of the actual number of passengers.",Shenandoah Entrance Fee - Commercial Tour (26+ Passengers)
+THRO,30.0,"Entrance to all units of Theodore Roosevelt National Park for one private, non-commercial vehicle and its occupants for 7 days.",Vehicle Entrance Fee
+THRO,15.0,"Per-person fee grants access for individuals on foot, bicycle, or horseback to all units of Theodore Roosevelt National Park for 7 days.",Non-motorized Individual Entrance Fee
+THRO,25.0,Entrance to all units of Theodore Roosevelt National Park for one motorcycle and its riders for 7 days.,Motorcycle Entrance Fee
+THRO,25.0,"Entrance to all units of Theodore Roosevelt National Park for one 1-6 passenger capacity commercial vehicle and its occupants for 7 days. 
+
+**Additional fee of $15 per person in addition to the $25 Commercial Vehicle fee.",Commercial Vehicle 1-6 Passenger Capacity
+THRO,50.0,Entrance to all units of Theodore Roosevelt National Park for one 7-15 passenger capacity commercial vehicle and its occupants for 7 days.,Commercial Vehicle 7-15 Passenger Capacity
+THRO,60.0,Entrance to all units of Theodore Roosevelt National Park for a 16-25 passenger capacity commercial vehicle and its occupants for 7 days.,Commercial Vehicle 16-25 Passenger Capacity
+THRO,150.0,Entrance to all units of Theodore Roosevelt National Park for one 25+ passenger capacity commercial vehicle and its occupants for 7 days.,Commercial Vehicle 25+ Passenger Capacity
+WICA,0.0,There are no fees to drive through or hike in the park. Enjoy!,Entrance Fee
+WICA,10.0,Half price for children 6-16 and for Senior (Golden Age)/Access pass holders. Children 5 and under are free.,Garden of Eden Cave Tour Fee
+WICA,12.0,Half price for children 6-16 and for Senior (Golden Age)/Access pass holders. Children 5 and under are free.,Natural Entrance Cave Tour Fee
+WICA,12.0,Half price for children 6-16 and for Senior (Golden Age)/Access pass holders. Children 5 and under are free.,Fairgrounds Cave Tour Fee
+WICA,12.0,"Half price for children 8*-16 and for Senior (Golden Age)/Access pass holders. Reservations strongly recommended.
+
+*Minimum age for Candlelight Tour is 8 years old.",Candlelight Cave Tour Fee
+WICA,30.0,Half price Senior (Golden Age)/Access pass holders. Minimum age is 17. Reservations are required.,Wild Cave Tour Fee
+WRST,0.0,Fee free park,Entrance Fee
+YELL,35.0,Good for entry into Yellowstone National Park for seven days from the date of purchase.,Yellowstone (non-commercial vehicle)
+YELL,30.0,Good for entry into Yellowstone National Park for seven days from the date of purchase. Snowmobile entry limited to guided tours or permit holders.,Yellowstone (motorcycle or snowmobile)
+YELL,20.0,Good for entry into Yellowstone National Park for seven days from the date of purchase.,"Yellowstone (individual on foot, bicycle, etc.)"
+YOSE,35.0,This fee is valid for seven days.,"Non-commercial car, pickup truck, RV, or van with 15 or fewer passenger seats"
+YOSE,30.0,The fee is valid for seven days. Cost is per motorcycle (not per person).,Motorcycle
+YOSE,20.0,This fee is valid for seven days. People 15 years and younger are free. Cost is per person.,"Foot, bicycle, horse, or non-commercial bus or van with more than 15 passenger seats"
+YOSE,25.0,The fee is $25 plus $15 per person.,Commercial Tour (sedan up to six seats)
+YOSE,125.0,,"Commercial Tour (van, 7-15 seats, regardless of occupancy)"
+YOSE,200.0,,"Commercial Tour (mini bus, 16-25 seats, regardless of occupancy)"
+YOSE,300.0,,"Commercial Tour (motor coach, 26 or more seats, regardless of occupancy)"
+ZION,35.0,"Admits private, non-commercial vehicle (15 passenger capacity or less) and all occupants to Zion National Park, including both the Zion Canyon and Kolob Canyon areas.",Private Vehicle: Valid for 7 days.
+ZION,30.0,"Admits one non-commercial motorcycle to Zion National Park, including both the Zion Canyon and Kolob Canyon areas.",Motorcycle: Valid for 7 days.
+ZION,20.0,"Admits one individual with no car to Zion National Park, including both the Zion Canyon and Kolob Canyon areas. Typically used for bicyclists, hikers and pedestrians. Youth 15 and under are admitted free.",Per Person: Valid for 7 days.
+ZION,35.0,"Organized groups such as Scouts, Clubs, Youth Groups, Churches, Reunions, etc. that do not qualify for an Academic Fee Waiver are charged as follows: 
+$35.00 Non-commercial vehicles with a vehicle capacity of 15 or less.
+$20.00 per person Non-commercial vehicles with a capacity of 16 or greater. Fees will not exceed the commercial fee for the same-sized vehicle. Youth 15 and under are free. Individuals or families with any valid Annual or Lifetime pass may use their pass for entry at the per person rate.",Non-Commercial Organized Groups: Valid for 7 days.
